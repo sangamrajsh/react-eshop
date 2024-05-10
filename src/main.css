@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+/*----------Header.js-----------------*/
+
+.header{
+  height: 95vh;
+  margin-bottom: -30px;
+  
+  background-color: #fff6e0;
+}
+
+nav{
+  box-shadow: 0px 3px 4px #808080;
+}
+
+.hero--div{
+  display:flex;
+  
+  min-height: 100%;
+}
+
+.logo--text{
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+.logo--img{
+  width: 200px;
+  z-index: 5;
+}
+
+@media screen and (max-width: 768px){
+  .logo--img{
+    width: 125px;
+  }
+}
+
+/*--------------------Card-------------------*/
+
+.card--div{
+  max-width: 200px;
+  background-color: aliceblue;
+  border-radius: 15px;
+  padding-bottom: 5px;
+
+}
+.image--div{
+  display:block;
+  position: relative;
+}
+.card--image{
+  width: 100%;
+  max-height: 200px;
+  border-radius: 15px 15px 0px 0px;
+}
+.availability{
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  width: fit-content;
+  padding: 3px 8px;
+  z-index: 4;
+  border-radius: 15px 0px;
+}
+.available{
+  background-color: green;
+}
+
+.soldout{
+  background-color: red;
+}
+
+
+
+.star{
+  width: 20px;
+  height: 20px;
+}
