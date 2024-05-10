@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-eshop/static/css/main.e8621e60.css",
+    "main.js": "/react-eshop/static/js/main.00974f29.js",
+    "static/media/hero-img.png": "/react-eshop/static/media/hero-img.1ab4756f8e305019e87e.png",
+    "static/media/sprite.png": "/react-eshop/static/media/sprite.2bc27d7dd987cb2d31e5.png",
+    "static/media/pepsi.png": "/react-eshop/static/media/pepsi.3630bc942041717f7de0.png",
+    "static/media/faxekondi.png": "/react-eshop/static/media/faxekondi.7835bf0922b23e79529c.png",
+    "static/media/cola.png": "/react-eshop/static/media/cola.3c9d624d24163b9984d6.png",
+    "static/media/favicon.ico": "/react-eshop/static/media/favicon.437c376fab05f2404ee4.ico",
+    "static/media/star.png": "/react-eshop/static/media/star.183927a71bb98927c4ea.png",
+    "index.html": "/react-eshop/index.html",
+    "main.e8621e60.css.map": "/react-eshop/static/css/main.e8621e60.css.map",
+    "main.00974f29.js.map": "/react-eshop/static/js/main.00974f29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8621e60.css",
+    "static/js/main.00974f29.js"
+  ]
+}
