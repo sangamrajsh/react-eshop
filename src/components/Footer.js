@@ -10,8 +10,8 @@ export default function Footer(){
                         <img className="me-2" src={logo} alt="Footer Logo" width="25px"/>Rajesh Bazaar
                     </div>
                     <div className="col-sm-12 col-md-4 py-2 text-center">
-                        <a className="link-light text-decoration-none" rel="noreferrer" href="http://sangamrajsh.me" target="_blank">
-                            sangamrajsh.me
+                        <a className="link-light text-decoration-none" rel="noreferrer" href="http://sangamrajsh.com" target="_blank">
+                            sangamrajsh.com
                         </a>
                     </div>
                     <div className="col-sm-12 col-md-4 py-2 text-center">
